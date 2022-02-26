@@ -11,6 +11,6 @@ Amazing Prime Video, a platform for streaming movies and TV shows on Amazing Pri
 
 ## Resources
 - Data Source: 
-  - [A scrape of Wikipedia for all movies released since 1990](https://github.com/Jarviniazh/Module-8-Challenge-Movies-ETL/blob/main/Data/wikipedia-movies.json), 
-  - [Rating data from the Movie Land’s website (Google Maps Platform)](https://www.kaggle.com/account/login?titleType=dataset-downloads&showDatasetDownloadSkip=False&messageId=datasetsWelcome&returnUrl=%2Frounakbanik%2Fthe-movies-dataset%3Fresource%3Ddownload)
+  - [Scrape of Wikipedia for movies released since 1990](https://github.com/Jarviniazh/Module-8-Challenge-Movies-ETL/blob/main/Data/wikipedia-movies.json), 
+  - [Rating data from the Movie Land](https://www.kaggle.com/account/login?titleType=dataset-downloads&showDatasetDownloadSkip=False&messageId=datasetsWelcome&returnUrl=%2Frounakbanik%2Fthe-movies-dataset%3Fresource%3Ddownload)
 - Software: Python 3.10.1, Jupyter Notebook, PostgreSQL 11.15
